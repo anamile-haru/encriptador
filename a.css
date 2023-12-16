@@ -1,0 +1,33 @@
+body {
+    background-image: url(landscape-macbook-3840x2160-10760\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #FFFFFF;
+}
+
+.a {
+    text-align: center;
+    font-family: "Rubik Doodle Shadow";
+    color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+in
+div {
+    border: 5px solid rgb(0 0 0)
+}
+
+.container {
+    margin: 20px; 40px;
+    height: 250px;
+}
+
+.inner1 {
+    width: 530px;
+    height: 100px;
+    margin: 10px; 20px;
+}
