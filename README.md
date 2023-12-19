@@ -56,30 +56,14 @@ div {
     height: 100px;
     margin: 10px 20px;
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Encriptador</title>
-    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2494/2494628.png"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap"/>
-    <link rel="stylesheet" href="a.css"/>
-</head>
-<body>
-    <div class="a">
-        <h1>CODIGO MORSE</h1>
-    </div>
-    <div class="container">
-        <div class="inner1"></div>
-        <div class="inner2"></div>
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
+
+
+
 const morseCodeMap = {
     'A': '· _', 'B': '_...', 'C': '_._.', 'D':	'— · ·', 'E': '.', 'F':	'· · — ·',  'G':	'— — ·', 'H':	'· · · ·', 'I': '..',  'J':	'· — — —', 'K':	'— · —', 'L': '· — · ·', 'M': '— —', 'M': '— —', 'Ñ':	'— — · — —',
 }
 
+
+![landscape-macbook-3840x2160-10760 (2)](https://github.com/anamile-haru/encriptador/assets/152450034/88728664-9eb3-4f1b-b31f-0cae3663c910)
 
 
